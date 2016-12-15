@@ -1,0 +1,15 @@
+* Day 2 Plan
+The project for the day was to make a simple burglar alarm system
+  - [ ] Introduction to sensors
+  - [ ] Introduction to IR transmitter and LEDs
+  - [ ] Making of the IR circuit on the breadboard
+  - [ ] Introduction to Arduino - Computer communication
+  - [ ] Introduction to conditions (IF statements)
+  - [ ] Demonstration of detection system
+  - [ ] Break
+  - [ ] Introduction to the buzzer and simple circuit
+  - [ ] Lunch
+  - [ ] Integrating the buzzer into the system
+  - [ ] Integrating LEDs into the system
+  - [ ] Testing the burglar alarm system
+  - [ ] Review of the day
