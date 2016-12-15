@@ -1,0 +1,12 @@
+* Introduction Day
+  - [ ] Everyone introduces themselves
+  - [ ] Introduction to electronics
+  - [ ] Videos on Arduino shown
+  - [ ] Voltage, Current Introduction
+  - [ ] Break
+  - [ ] Working with LEDS demonstration
+  - [ ] Single LED circuit made by each student
+  - [ ] Introduction to Arduino platform
+  - [ ] Blinking LED circuit previously made
+  - [ ] Adding more LED lights and making patterns
+  - [ ] Review of the day's activities
