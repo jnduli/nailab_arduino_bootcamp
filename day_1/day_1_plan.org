@@ -1,12 +1,13 @@
 * Introduction Day
-  - [ ] Everyone introduces themselves
-  - [ ] Introduction to electronics
-  - [ ] Videos on Arduino shown
-  - [ ] Voltage, Current Introduction
-  - [ ] Break
-  - [ ] Working with LEDS demonstration
-  - [ ] Single LED circuit made by each student
-  - [ ] Introduction to Arduino platform
-  - [ ] Blinking LED circuit previously made
-  - [ ] Adding more LED lights and making patterns
-  - [ ] Review of the day's activities
+  - [ ] Everyone introduces themselves: 09:00 - 09:30
+  - [ ] Introduction to electronics:09:30 - 10:00 
+  - [ ] Videos on Arduino shown: 10:00-10:30
+  - [ ] Voltage, Current Introduction: 10:30-11:00
+  - [ ] Break: 11:00-11:15
+  - [ ] Working with LEDS demonstration: 11:15-11:30
+  - [ ] Single LED circuit made by each student: 11:30- 12:00
+  - [ ] Introduction to Arduino platform 11:30-12:00
+  - [ ] Blinking LED circuit made: 12:00-13:00
+  - [ ] Lunch: 13:00- 14:00
+  - [ ] Adding more LED lights and making patterns: 14:00 - 14:45
+  - [ ] Review of the day's activities: 14:45 - 15:00
