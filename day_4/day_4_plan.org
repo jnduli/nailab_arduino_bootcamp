@@ -1,0 +1,11 @@
+* Day 4 Plan
+The project for the day was to make a simple bluetooth controlled car
+  - [ ] Review of DC Motors 09:00 - 09:15
+  - [ ] Intro to bluetooth and arduino libraries 09:l5 - 09:45
+  - [ ] Implement simple bluetooth and communicate with phone 09:45-10:30
+  - [ ] Intro to l298 10:30-11:00
+  - [ ] Break 11:00 - 11:15
+  - [ ] Make the RC car 11:15- 13:00
+  - [ ] Lunch 13:00 - 14:00
+  - [ ] Using the RGB LED 14:00 - 14:45
+  - [ ] Review of the day 14:45 - 15:00

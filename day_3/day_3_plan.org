@@ -1,0 +1,11 @@
+* Day 3 Plan
+The project for the day was to make a motor fan
+  - [ ] Introduction to servos 09:00 - 09:30
+  - [ ] Demo and Explain arduino sweep example for servo 09:30-10:15
+  - [ ] Explain relationship between servo and maths(division) 10:15 - 11:00
+  - [ ] Break 11:00 - 11:15
+  - [ ] Challenges relating to servos 11:15- 13:00
+  - [ ] Lunch 13:00 - 14:00
+  - [ ] DC motor introduction and rotating from battery supply 14:00- 14:30
+  - [ ] DC motor fan 14:30 - 14:45
+  - [ ] Review of the day 14:45 - 15:00

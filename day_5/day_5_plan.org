@@ -1,0 +1,9 @@
+* Day 5 Plan
+The project for the day was to make a simple robotic arm
+  - [ ] Review of servos 09:00 - 09:15
+  - [ ] Explain robotic arm configuration 09:15-09:45
+  - [ ] Make the robotic arm 09:45 - 11:00
+  - [ ] Break 11:00 - 11:15
+  - [ ] Demo some gestures with the robotic arm 11:15-11:45
+  - [ ] Try out other configurations of the arm 11:45 - 12:45
+  - [ ] Review of the bootcamp 12:45-13:00
